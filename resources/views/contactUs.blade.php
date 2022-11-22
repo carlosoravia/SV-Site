@@ -1,2 +1,2 @@
 <x-layout/>
-<x-contact-form/>
+<livewire:forms />
